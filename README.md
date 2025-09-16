@@ -48,12 +48,6 @@ This project provides an **automated translation system** that increases accessi
 | Farmers are advised to store maize in dry containers. | Wakulima wanashauriwa kuhifadhi mahindi kwenye vyombo kavu. | Wakulima wanashauriwa kuhifadhi mahindi kwenye vyombo kavu. |
 | Use certified seeds to improve your harvest. | Tumia mbegu zilizoidhinishwa ili kuboresha mavuno yako. | Tumia mbegu zilizothibitishwa ili kuongeza mavuno yako. |
 
----
 
-## 📈 BLEU Score Visualization
-
-![BLEU Score](results/bleu_score.png)
-
-> BLEU = 61.1 → This indicates strong alignment between machine translations and human references.
 
 
